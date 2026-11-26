@@ -1,0 +1,5 @@
+1	Which city has the highest average restaurant rating?	
+2	Which area has the maximum number of restaurants? (Top 10)	
+3	Which food type combinations are most common? (Top 10)	
+4	Which restaurants have the highest total ratings? (Top 5)	
+5	How does average delivery time vary across cities?

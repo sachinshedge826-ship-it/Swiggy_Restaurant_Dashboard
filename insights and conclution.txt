@@ -1,0 +1,20 @@
+1. Which city has the highest average restaurant rating?
+- Problem: It was difficult to identify which city had the highest customer satisfaction.
+- Solution: By analyzing the average restaurant ratings city-wise, we identified the cities with better and lower ratings. Chennai had the highest average rating in our analysis.
+- Business Benefit: Swiggy can focus on improving food quality and customer service in cities with lower ratings.
+2. Which area has the maximum number of restaurants?
+- Problem: It was difficult to identify areas with high restaurant competition and areas with fewer restaurants.
+- Solution: We identified the top 10 areas with the highest number of restaurants. Rohini had the maximum number, with 257 restaurants.
+- Business Benefit: Swiggy can identify areas with fewer restaurants and explore opportunities to onboard new restaurant partners.
+3. Which food type combinations are most common?
+- Problem: We did not know which food combinations were most commonly available among restaurants.
+- Solution: We analyzed the top 10 most common food type combinations.
+- Business Benefit: Swiggy can understand food availability and identify opportunities to onboard restaurants offering less common food combinations.
+4. Which restaurants have the highest total ratings?
+- Problem: It was difficult to identify the restaurants receiving the highest total customer ratings.
+- Solution: We identified the top 5 restaurants based on their total ratings.
+- Business Benefit: Swiggy can study these restaurants' performance and use their practices as examples to help other restaurants improve.
+5. How does average delivery time vary across cities?
+- Problem: We did not know which cities had higher average delivery times.
+- Solution: We compared the average delivery time across different cities.
+- Business Benefit: Swiggy can identify cities with longer delivery times and work on improving delivery operations and efficiency.
